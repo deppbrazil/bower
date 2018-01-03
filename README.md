@@ -78,4 +78,4 @@ Isso vai gerar o [bower.json](https://github.com/deppbrazil/bower/blob/master/bo
 
 * `^123` mais usada =)
 
-[Documentação de Sufixos](https://semver.org/lang/pt-BR)
+[Documentação de Sufixos](https://semver.org/lang/pt-BR)    
